@@ -44,6 +44,7 @@ public class InsertionSort {
 		int[] a={1,3,4,3,7,5,6,9,8};
 		sort(a);
 		
+		System.out.println("Bottom-up insertion sort");
 		for(int j:a){
 			System.out.println(j);
 		}
