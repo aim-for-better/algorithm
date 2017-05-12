@@ -46,6 +46,7 @@ public class BottomUpMergeSort {
 		
 		int[]a={1,3,4,2,5,8,7,6,9,13,11,234,43};
 		sort(a);
+		System.out.println("Bottom-up merge sort");
 		for(int j:a){
 			
 			System.out.println(j);
