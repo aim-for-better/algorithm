@@ -1,7 +1,7 @@
 /*
 *  create by zzy at 2017,4:55:08 PM
 */
-public class SequentialSearchTree<Key,Value> {
+public class SequentialSearchST<Key,Value> {
 
     
     private Node first;
