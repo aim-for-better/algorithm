@@ -25,7 +25,7 @@ public class Topological {
     
     public boolean isDAG(){
 	
-	return  order==null;
+	return  order!=null;
     }
     
     
