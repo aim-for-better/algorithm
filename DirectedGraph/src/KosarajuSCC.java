@@ -56,8 +56,6 @@ public class KosarajuSCC {
 	
 	public boolean stronglyConnected(int v,int w){
 		
-		
-		
 		return id[v]==id[w];
 	}
 	

@@ -1,6 +1,10 @@
-/BinarySearchTree.class
-/BinarySearchTree$Node.class
-/BST.class
 /BST$Node.class
-/RedBlackTree.class
+/BST.class
+/BinarySearchST.class
+/LinearProbingHashST.class
 /RedBlackTree$Node.class
+/RedBlackTree.class
+/SeparateChainingHashST.class
+/SequentialSearchST$Node.class
+/SequentialSearchST.class
+/TestST.class
